@@ -6,5 +6,8 @@
 ########## Is this a Header 10?
 ##### This is a Header 5.
 ###### This is a Header 6.
-####### This is a Header 7?
-The change that I made was to learn about Headers.
+``` javascript
+var myVar = "Hello, world!";
+console.log(var)
+```
+
