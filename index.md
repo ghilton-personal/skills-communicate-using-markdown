@@ -10,4 +10,8 @@
 var myVar = "Hello, world!";
 console.log(var)
 ```
+- [ ] Turn on GitHub Pages
+- [ ]  Outline my portfolio
+- [ ]  Introduce myself to the world
+
 
